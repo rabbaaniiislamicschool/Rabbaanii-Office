@@ -7,7 +7,10 @@
             <description>Penambahan fitur dan perbaikan Bug.</description>
             <pubDate>Sun, 27 Sep 2024 07:53:00 +0000</pubDate>
             <enclosure url="https://s.id/androidRIS" sparkle:version="1.0.1" sparkle:os="android" />
-            <enclosure url="https://s.id/iosRIS" sparkle:version="1.0.1" sparkle:os="ios" />
+            <enclosure url="https://s.id/iosRIS" sparkle:version="1.0.1" sparkle:os="iOS" />
+             <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
         </item>
     </channel>
 </rss>
