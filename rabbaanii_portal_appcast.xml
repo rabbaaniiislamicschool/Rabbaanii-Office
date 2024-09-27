@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>Rabbaanii Portal</title>
         <item>
-            <title>Version 1.0.0</title>
+            <title>Version 1.0.1</title>
             <description>Penambahan fitur dan perbaikan Bug.</description>
             <pubDate>Sun, 27 Sep 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://s.id/androidRIS" sparkle:version="1.0.0" sparkle:os="android" />
-            <enclosure url="https://s.id/iosRIS" sparkle:version="1.0.0" sparkle:os="ios" />
+            <enclosure url="https://s.id/androidRIS" sparkle:version="1.0.1" sparkle:os="android" />
+            <enclosure url="https://s.id/iosRIS" sparkle:version="1.0.1" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
