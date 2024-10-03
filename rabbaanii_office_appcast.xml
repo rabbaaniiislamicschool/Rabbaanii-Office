@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appcast>
+  <title>Versi Baru Telah Tersedia</title>
+  <description>Penambahan Fitur baru dan perbaikan bug.</description>
+  <items>
+    <item>
+      <title>Version 1.0.1</title>
+      <description>Penambahan Fitur baru dan perbaikan bug.</description>
+      <releaseNotes>• Added new features. • Fixed bugs.</releaseNotes>
+      <version>1.0.1</version>
+      <os>android</os>
+      <url>https://s.id/androidRIS</url>
+    </item>
+    <item>
+      <title>Version 1.0.1</title>
+      <description>Penambahan Fitur baru dan perbaikan bug.</description>
+      <releaseNotes>• Added new features. • Fixed bugs.</releaseNotes>
+      <version>1.0.1</version>
+      <os>ios</os>
+      <url>https://s.id/iosRIS</url>
+    </item>
+  </items>
+</appcast>
