@@ -1,23 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<appcast>
-  <title>Versi Baru Telah Tersedia</title>
-  <description>Penambahan Fitur baru dan perbaikan bug.</description>
-  <items>
-    <item>
-      <title>Version 1.0.1</title>
-      <description>Penambahan Fitur baru dan perbaikan bug.</description>
-      <releaseNotes>• Added new features. • Fixed bugs.</releaseNotes>
-      <version>1.0.1</version>
-      <os>android</os>
-      <url>https://s.id/androidRIS</url>
-    </item>
-    <item>
-      <title>Version 1.0.1</title>
-      <description>Penambahan Fitur baru dan perbaikan bug.</description>
-      <releaseNotes>• Added new features. • Fixed bugs.</releaseNotes>
-      <version>1.0.1</version>
-      <os>ios</os>
-      <url>https://s.id/iosRIS</url>
-    </item>
-  </items>
-</appcast>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Rabbaanii Office</title>
+        <item>
+            <title>Version 1.0.1</title>
+            <enclosure url="https://s.id/iosRIS"
+                       sparkle:version="1.1" sparkle:os="iOS"/>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+        </item>
+        <item>
+            <title>Version 1.0.1</title>
+            <enclosure url="https://s.id/androidRIS"
+                       sparkle:version="1.1" sparkle:os="android"/>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
+        </item>
+
+    </channel>
+</rss>
