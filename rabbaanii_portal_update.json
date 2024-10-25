@@ -1,0 +1,30 @@
+{
+    "android": {
+        "version": {
+            "minimum": "1.0.0",
+            "latest": "1.0.2"
+        },
+        "download_url": "https://s.id/androidRIS",
+        "status": {
+            "active": true,
+            "message": {
+                "en": "App is in maintanence mode, please come back later",
+                "id": "Versi terbaru telah tersedia, silahkan update aplikasi versi terbaru."
+            }
+        }
+    },
+    "iOS": {
+        "version": {
+            "minimum": "1.0.0",
+            "latest": "1.0.2"
+        },
+        "download_url": "https://s.id/iosRIS",
+        "status": {
+            "active": true,
+            "message": {
+                "en": "App is in maintanence mode, please come back later.",
+                "id": "Versi terbaru telah tersedia, silahkan update aplikasi versi terbaru."
+            }
+        }
+    }
+}
