@@ -2,7 +2,7 @@
     "android": {
         "version": {
             "minimum": "1.0.0",
-            "latest": "1.0.0"
+            "latest": "1.0.1"
         },
         "download_url": "https://s.id/androidPORTALRIS",
         "status": {
@@ -16,7 +16,7 @@
     "iOS": {
         "version": {
             "minimum": "1.0.0",
-            "latest": "1.0.0"
+            "latest": "1.0.1"
         },
         "download_url": "https://s.id/iosPORTALRIS",
         "status": {
