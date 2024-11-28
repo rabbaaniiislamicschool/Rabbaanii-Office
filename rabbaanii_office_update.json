@@ -2,7 +2,7 @@
     "android": {
         "version": {
             "minimum": "1.0.0",
-            "latest": "1.0.4"
+            "latest": "1.0.3"
         },
         "download_url": "https://s.id/androidRIS",
         "status": {
