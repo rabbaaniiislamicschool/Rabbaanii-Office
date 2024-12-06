@@ -2,14 +2,14 @@
     "android": {
         "version": {
             "minimum": "1.0.0",
-            "latest": "1.0.4"
+            "latest": "1.0.5"
         },
         "download_url": "https://s.id/androidRIS",
         "status": {
             "active": true,
             "message": {
-                "en": "Versi terbaru telah tersedia, penambahan fitur Laundry & Absensi kegiatan. silahkan update aplikasi versi terbaru.",
-                "id": "Versi terbaru telah tersedia, penambahan fitur Laundry & Absensi kegiatan. silahkan update aplikasi versi terbaru."
+                "en": "Versi terbaru telah tersedia, Absensi Kegiatan sudah bisa menampilkan siswa yang Belum Absen.",
+                "id": "Versi terbaru telah tersedia, Absensi Kegiatan sudah bisa menampilkan siswa yang Belum Absen."
             }
         }
     },
